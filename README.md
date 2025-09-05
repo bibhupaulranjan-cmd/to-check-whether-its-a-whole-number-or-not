@@ -1,0 +1,1 @@
+# to-check-whether-its-a-whole-number-or-not
